@@ -1,3 +1,3 @@
 # tmux-scripts
 
-This scripts setup standard tmux layouts that I use for various environments.  
+These scripts setup standard tmux layouts that I use for various environments.  
